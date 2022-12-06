@@ -1,0 +1,2 @@
+Total Weight: 5661
+The Average Degree: 1.999486125385406
